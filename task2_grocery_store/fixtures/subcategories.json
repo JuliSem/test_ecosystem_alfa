@@ -1,0 +1,72 @@
+[
+    {
+        "model": "categories.subcategory",
+        "pk": 1,
+        "fields": {
+            "category": 1,
+            "name": "молоко",
+            "slug": "moloko",
+            "image": "subcategory/moloko.jpg"
+        }
+    },
+    {
+        "model": "categories.subcategory",
+        "pk": 2,
+        "fields": {
+            "category": 2,
+            "name": "бананы",
+            "slug": "banany",
+            "image": "subcategory/banany.webp"
+        }
+    },
+    {
+        "model": "categories.subcategory",
+        "pk": 3,
+        "fields": {
+            "category": 3,
+            "name": "огурцы",
+            "slug": "ogurcy",
+            "image": "subcategory/ogurcy.jpg"
+        }
+    },
+    {
+        "model": "categories.subcategory",
+        "pk": 4,
+        "fields": {
+            "category": 3,
+            "name": "помидоры",
+            "slug": "pomidory",
+            "image": "subcategory/pomidory.jpg"
+        }
+    },
+    {
+        "model": "categories.subcategory",
+        "pk": 5,
+        "fields": {
+            "category": 6,
+            "name": "торты",
+            "slug": "torty",
+            "image": "subcategory/torty.jpg"
+        }
+    },
+    {
+        "model": "categories.subcategory",
+        "pk": 6,
+        "fields": {
+            "category": 1,
+            "name": "творог",
+            "slug": "tvorog",
+            "image": "subcategory/tvorog.jpg"
+        }
+    },
+    {
+        "model": "categories.subcategory",
+        "pk": 7,
+        "fields": {
+            "category": 1,
+            "name": "сметана",
+            "slug": "smetana",
+            "image": "subcategory/smetana.jpg"
+        }
+    }
+]

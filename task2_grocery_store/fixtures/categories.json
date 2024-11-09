@@ -1,0 +1,56 @@
+[
+    {
+        "model": "categories.category",
+        "pk": 1,
+        "fields": {
+            "name": "молочные продукты",
+            "slug": "molochnye-produkty",
+            "image": "category/molochnye-produkty.jpg"
+        }
+    },
+    {
+        "model": "categories.category",
+        "pk": 2,
+        "fields": {
+            "name": "фрукты",
+            "slug": "frukty",
+            "image": "category/frukty.jpg"
+        }
+    },
+    {
+        "model": "categories.category",
+        "pk": 3,
+        "fields": {
+            "name": "овощи",
+            "slug": "ovoshi",
+            "image": "category/ovoshi.jpg"
+        }
+    },
+    {
+        "model": "categories.category",
+        "pk": 4,
+        "fields": {
+            "name": "рыбные продукты",
+            "slug": "rybnye-produkty",
+            "image": "category/rybnye-produkty.jpg"
+        }
+    },
+    {
+        "model": "categories.category",
+        "pk": 5,
+        "fields": {
+            "name": "хлебобулочные изделия",
+            "slug": "hlebobulochnye-izdeliya",
+            "image": "category/hlebobulochnye-izdeliya.jpg"
+        }
+    },
+    {
+        "model": "categories.category",
+        "pk": 6,
+        "fields": {
+            "name": "кондитерские изделия",
+            "slug": "konditerskie-izdeliya",
+            "image": "category/konditerskie-izdeliya.jpg"
+        }
+    }
+]

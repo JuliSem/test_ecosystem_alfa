@@ -1,0 +1,93 @@
+[
+    {
+        "model": "products.product",
+        "pk": 1,
+        "fields": {
+            "name": "молоко коровье",
+            "category": 1,
+            "subcategory": 1,
+            "slug": "moloko-korove",
+            "original_image": "product/moloko-korove.jpg",
+            "quantity": 20,
+            "price": "100.00"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 2,
+        "fields": {
+            "name": "Бананы кавендиш",
+            "category": 2,
+            "subcategory": 2,
+            "slug": "banany-kavendish",
+            "original_image": "product/banany-kavendish.jpg",
+            "quantity": 30,
+            "price": "70.00"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 3,
+        "fields": {
+            "name": "молоко козье",
+            "category": 1,
+            "subcategory": 1,
+            "slug": "moloko-koze",
+            "original_image": "product/moloko-koze.jpg",
+            "quantity": 15,
+            "price": "120.00"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 4,
+        "fields": {
+            "name": "творог с изюмом",
+            "category": 1,
+            "subcategory": 6,
+            "slug": "tvorog-s-izyumom",
+            "original_image": "product/tvorog-s-izyumom_9mQgaBg.jpg",
+            "quantity": 14,
+            "price": "125.00"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 5,
+        "fields": {
+            "name": "сметана отборная",
+            "category": 1,
+            "subcategory": 7,
+            "slug": "smetana-otbornaya",
+            "original_image": "product/smetana-otbornaya.jpg",
+            "quantity": 8,
+            "price": "80.00"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 6,
+        "fields": {
+            "name": "наполеон",
+            "category": 6,
+            "subcategory": 5,
+            "slug": "napoleon",
+            "original_image": "product/napoleon.jpg",
+            "quantity": 30,
+            "price": "150.00"
+        }
+    },
+    {
+        "model": "products.product",
+        "pk": 7,
+        "fields": {
+            "name": "медовик",
+            "category": 6,
+            "subcategory": 5,
+            "slug": "medovik",
+            "original_image": "product/medovik.webp",
+            "quantity": 25,
+            "price": "160.00"
+        }
+    }
+]
